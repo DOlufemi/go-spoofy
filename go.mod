@@ -1,4 +1,4 @@
-module github.com/quantum-wealth/tokenization-service
+module github.com/DOlufemi/go-spoofy
 
 go 1.23
 
